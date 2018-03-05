@@ -1,0 +1,26 @@
+{
+  "name": "lib-toxics-reduction",
+  "version": "1.0.0",
+  "description": "How to build libraries for toxics reduction map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhyuan/lib-toxics-reduction"
+  },
+  "keywords": [
+    "Angular",
+    "Angular2",
+    "Library",
+    "Example"
+  ],
+  "author": "yhyuan@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhyuan/lib-toxics-reduction/issues"
+  },
+  "homepage": "https://github.com/yhyuan/lib-toxics-reduction#readme",
+  "types": "index.d.ts"
+}
